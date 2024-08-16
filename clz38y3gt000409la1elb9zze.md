@@ -4,7 +4,7 @@ datePublished: Fri Jul 26 2024 22:00:54 GMT+0000 (Coordinated Universal Time)
 cuid: clz38y3gt000409la1elb9zze
 slug: eat-that-frog
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721053428785/a560d217-81dc-48bf-81f4-64467d68c700.jpeg
-tags: self-help, self-help-books
+tags: procrastination, self-help, self-help-books
 
 ---
 
