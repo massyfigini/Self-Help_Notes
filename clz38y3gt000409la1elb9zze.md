@@ -360,4 +360,4 @@ tags: procrastination, self-help, self-help-books
 
 The key to happiness, satisfaction, great success and a wonderful feeling of personal power and effectiveness is for you to develop the habit of eating your frog first thing every day when you start work.
 
-*My rating:* ★★★★★
+☺ *My rating:* ★★★★★
