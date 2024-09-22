@@ -85,7 +85,7 @@ tags: habits, self-help, self-help-books
     
 * **Habit stacking:** A potentially more effective strategy is to pair the new habit with an existing one. This method involves linking your new habit to a habit you already perform regularly. The process begins with writing down your current daily habits to increase awareness and evaluating whether they are positive (+), negative (-), or neutral (=).
     
-    Example**:**
+    Example\*\*:\*\*
     
     * Wake up (=)
         
@@ -215,4 +215,4 @@ tags: habits, self-help, self-help-books
 * **Using a habit tracker:** A habit tracker is one of the most effective tools for measuring progress. Tracking your habits visually provides clear evidence of your accomplishments, which is inherently satisfying. The act of checking off each day you stick to your habit can be motivating and helps to reinforce the behavior over time.
     
 
-*My rating:* ★★★★★
+☺ *My rating:* ★★★★★
