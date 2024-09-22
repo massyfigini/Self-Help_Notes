@@ -115,4 +115,4 @@ Some other good quotes from the book:
 * We spend to much time thinking about the actions we should be taking to create the results that we want, but then we don't take those actions. We all know what we need to do we just don't consistently do what we know.
     
 
-*My rating:* ★★★★☆
+☺ *My rating:* ★★★★☆
