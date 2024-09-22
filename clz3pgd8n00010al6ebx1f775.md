@@ -37,4 +37,4 @@ These are the sentences important to me:
 * Always stay in touch with what is happening around you, don't isolate yourself in your confort zone.
     
 
-*My rating:* ★★☆☆☆
+☺ *My rating:* ★★☆☆☆
